@@ -1,0 +1,26 @@
+/* css styles */
+
+
+.search {
+  
+    margin-right: 20px;
+  }
+
+.img-fluid {
+   
+    margin-left: 20px;
+}
+
+#header_carousel {
+       border-width: 25%;
+    
+    }
+
+.card{
+   max-width: 100%;
+   
+}
+
+.btn-outline-danger{
+    margin-left:1450px;
+}
