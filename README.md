@@ -22,3 +22,5 @@ Install dependencies: npm install
 Run the development server: npm start
 
 Access the application at http://localhost:5000
+
+for project view : https://internship-project-hazel.vercel.app/
